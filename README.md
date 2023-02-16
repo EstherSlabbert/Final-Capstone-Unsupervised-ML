@@ -28,6 +28,7 @@
 
 A description of the data in 'UsArrests.csv' is given as: “This data set contains statistics, in arrests per 100,000 residents, for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.”
 This contains a .ipynb file that generates an in-depth PCA and data clustering report of the data using unsupervised machine learning.
+Dataset can be found: https://www.kaggle.com/datasets/halimedogan/usarrests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
