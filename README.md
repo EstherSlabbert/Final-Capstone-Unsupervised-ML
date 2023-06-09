@@ -1,4 +1,4 @@
-## finalCapstone
+## Final Capstone - Unsupervised Machine Learning on US Arrest data
 
 <!-- TABLE OF CONTENTS -->
 <details>
